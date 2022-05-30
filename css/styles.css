@@ -449,6 +449,12 @@ footer {
     fill: var(--accent-color);
 }
 
+.perm-client-link:hover,
+.perm-client-link:focus {
+    border: 1px solid var(--accent-color);
+}
+
+
 /* =============== /OUR CLIENTS =============== */
 
 /* =============== PORTFOLIO =============== */
